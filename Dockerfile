@@ -1,3 +1,8 @@
+# Name:         laenedo/docker-coldfusion
+# Description:  ColdFusion 11 Express development environment.
+# Website:      https://github.com/laenedo/docker-coldfusion
+# Version:      0.1.0
+
 FROM phusion/baseimage:latest
 MAINTAINER Reed Odeneal - "reed@laenedo.net"
 ENV HOME /root
